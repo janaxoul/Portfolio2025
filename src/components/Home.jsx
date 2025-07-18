@@ -1,6 +1,7 @@
 import BottomBorders from "./BottomBorders";
 import Experience from "./Experience";
 import Name from "./Name";
+import Projects from "./Projects";
 import Summary from "./Summary";
 
 function Content() {
@@ -11,6 +12,8 @@ function Content() {
         <Summary/>
         <BottomBorders/>
         <Experience/>
+        <BottomBorders/>
+        <Projects/>
         <BottomBorders/>
         </div>
     );
