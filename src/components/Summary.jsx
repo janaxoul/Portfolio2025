@@ -42,7 +42,7 @@ function Summary() {
                         
                     </div>
                 </div>
-                <div className='w-[65%] bg-red-0 h-[50%] px-2 flex flex-col justify-start'>
+                <div className='w-[65%] bg-red-0 h-[100%] px-2 flex flex-col justify-start'>
                     <h2 className="text-[3vw] font-semibold font-[clash_display]">Introduction</h2>
                     <div className="border-[2px] p-[15px] rounded-3xl flex flex-col gap-3">
                         <h3 className="text-[2.6vw] font-[clash_display] font-[600] tracking-wide"> Engineer based in Bangalore</h3>
